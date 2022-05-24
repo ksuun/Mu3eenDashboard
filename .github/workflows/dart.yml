@@ -18,3 +18,4 @@ jobs:
         with:
           baseHref: /Mu3eenDashboard/
           customArgs : --web-renderer html
+          
